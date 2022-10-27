@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World. 
 
 <!--
 **HlloWrld/HlloWrld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Full Stack / Front End Web Developer.
+Passionate about cryptography, open source and all things CSS and design.
+
