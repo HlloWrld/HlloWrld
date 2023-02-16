@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full Stack / Front End Web Developer.
+I am a Full Stack Developer.
 Passionate about cryptography, open source and all things CSS and design.
 
