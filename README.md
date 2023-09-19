@@ -4,13 +4,7 @@
 
 ## About Me
 
-👨‍💻 Full Stack Web Developer | Front End Specialist | Raspberry Pi Enthusiast | Skiing Aficionado | Cryptography
-
-🌐 Crafting web and mobile solutions with a focus on clean, well-documented code.
-
-🛠️ Passionate about Raspberry Pi for innovative projects at the intersection of technology and creativity.
-
-🧩 Solving complex problems both in code and real-world puzzles is my forte.
+👨‍💻 Full Stack Web Developer | Front End Specialist | Raspberry Pi Enthusiast | Cryptography | Design
 
 ## Tech Stack
 ### Languages
