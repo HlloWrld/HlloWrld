@@ -4,7 +4,7 @@
 
 ## About Me
 
-👨‍💻 Full Stack Web Developer | Front End Specialist | Raspberry Pi Enthusiast | Cryptography | Design
+Full Stack Web Developer | Front End Specialist | Raspberry Pi Enthusiast | Cryptography | Design
 
 ## Tech Stack
 ### Languages
